@@ -1,2 +1,7 @@
 # joshnguyen.github.io
-A repository for my personal website built using ReactJS
+A repository for my personal portfolio website.
+
+
+## Tech Stack Used:
+- ReactJS
+- Next.JS
